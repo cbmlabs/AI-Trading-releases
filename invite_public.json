@@ -1,0 +1,125 @@
+{
+  "gate_enabled": true,
+  "codes": [
+    {
+      "hash": "b86896be771744cd03f7a4cd492e10331afd218e49011ebf5f89c1fe2028622c",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2029-11-20"
+    },
+    {
+      "hash": "934feba54ee66aaf28ad2141a2bf219818d749ffc1016bed133300968f04dab5",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-12-31"
+    },
+    {
+      "hash": "5fa338928cf19db0d334702c36abe03ee364764cfcc8279f53549f5f32cb14c9",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-12-31"
+    },
+    {
+      "hash": "4cd3b0267f92421de119b8a2f4033d0256934bbf1a296ee702047b266da0e43e",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "393a1f98c8909aa98c6222afa974bd457f84186f6268e0928ba285b523cc0f38",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "e889a78624abff555619edeaaa59c5e7f0fae00485d280b441da3733270c0bdf",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "96c91b449f70b832d47e3dbb5657367cf4de87f8727a90c96d478a390963224a",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "11181d9a1e967a8cb50638837c6f758b2ec21441dd8bc93a72e5eefd6753a985",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "19f3964a4736f7402455e8f326738eff351a7e06102f2f19881b3e5e4924df42",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "3c36f43ad4add22547ed854bb4a1c02afeb6149f476486e9e8bb26deb184dedb",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "6d535c89fc95b336cf24b480567f30c56981dcda9147e02eb47cc1c3c07cd14e",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "bdf7d3e433aa0416cc6aeb80fa62192c4f1d2c432bfa1262dc6f44d1b5834713",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "028febaa5065ec0797369bf9fcb08a6aa745b2da920c74f3da933b13c21d5e56",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "3169184eff672659f5e0ab80c0dcdeabbcccc84ac49dee9633cbb5a39983bbbd",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "e64bb0e93b4f49841823afbeaf8b435973f7dffb8f2387925f069a1ff5a33794",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "875399187c98283e15d08e164cea6df04907c467899bd011985b5bac254d1edd",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "d1f6e06a09496edbe7d95c2e8d6ce1ab947c886192412d587a38492a987323a2",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "3c1a3b178b3354f8b4f4f6c806b3c7c84938050a30bc36673a95075817c25805",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "b8aca28635aef007b1323b8ad3d8fccc6f849ca16e38e300d6eadd110f4886b8",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    },
+    {
+      "hash": "2a87bf5f76e78d46a81c3d6ed1dcd842d68266ea8f37c80b795c9f37930d6b52",
+      "status": "valid",
+      "activate_from": "2026-10-21",
+      "expires": "2026-11-20"
+    }
+  ]
+}

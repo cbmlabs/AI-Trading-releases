@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>更新</title>
+    <item>
+      <title>版本 1.0.5</title>
+      <pubDate>Fri, 30 Oct 2026 10:04:32 +0800</pubDate>
+      <description><![CDATA[<html><head><meta charset="utf-8"><style>body{background:#ffffff;color:#1a1a1a;font-family:'Microsoft JhengHei','Segoe UI',sans-serif;font-size:14px;margin:12px}h3{margin:0 0 8px}li{margin:3px 0}</style></head><body><h3>版本 1.0.5 更新內容</h3><ul><li>修正：程式內更新遇到同一版本重新發布時，不會再誤用先前下載的舊安裝檔，會提示重新下載</li></ul></body></html>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/cbmlabs/AI-Trading-releases/main/TxPanel-Setup-1.0.5.exe" sparkle:version="1.0.5" sparkle:os="windows" length="26100101" type="application/octet-stream" sparkle:edSignature="01WHaOU4/Um6kZn7eIBcrwiHytAFZVda3bUyt/waKMKhIxF5WcZj9EVeHjSH6+eVQa1zLgTBPDp1kwhfyo8YDw==" />
+    </item>
+  </channel>
+</rss>
