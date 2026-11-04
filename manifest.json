@@ -1,0 +1,15 @@
+{
+ "base_min": "1.0.9",
+ "created": "2026-11-04 11:41:14",
+ "files": [
+  {
+   "path": "web/index.html",
+   "sha256": "a0ff4ef6072871eb3f0b2fcd2c8a362f9c491243a8d76d3341abba01262ccad6",
+   "size": 643594
+  }
+ ],
+ "notes": "- 浮窗的標題改為目前看盤商品名稱（例：微台近月），不再顯示 about:blank",
+ "page_api": 1,
+ "rev": 1,
+ "schema": 1
+}
