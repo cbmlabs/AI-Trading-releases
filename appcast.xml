@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>更新</title>
+    <item>
+      <title>版本 1.0.9</title>
+      <pubDate>Wed, 04 Nov 2026 11:11:58 +0800</pubDate>
+      <description><![CDATA[<html><head><meta charset="utf-8"><style>body{background:#ffffff;color:#1a1a1a;font-family:'Microsoft JhengHei','Segoe UI',sans-serif;font-size:14px;margin:12px}h3{margin:0 0 8px}li{margin:3px 0}</style></head><body><h3>版本 1.0.9 更新內容</h3><ul><li>修正：對話區與頂端的「前往設定」按了沒有反應</li><li>「AI 使用方式」的選擇改存在本機，換視窗或重新登入後不用再選一次（不儲存 API Key）</li><li>設定裡的程式更新下載完成後，會直接跳出安裝確認視窗</li></ul></body></html>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/cbmlabs/AI-Trading-releases/main/TxPanel-Setup-1.0.9.exe" sparkle:version="1.0.9" sparkle:os="windows" length="26124628" type="application/octet-stream" sparkle:edSignature="r6WEFpXwQnQV4Fd9SJ4ZDrorDI+DzaCV+Z+3qVUVmx5CTY/wMyIXFw44EDtUxWuRQIrorcUyI2I/drnKyg2jDg==" />
+    </item>
+  </channel>
+</rss>
