@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>更新</title>
+    <item>
+      <title>版本 1.0.11</title>
+      <pubDate>Tue, 10 Nov 2026 11:57:41 +0800</pubDate>
+      <description><![CDATA[<html><head><meta charset="utf-8"><style>body{background:#ffffff;color:#1a1a1a;font-family:'Microsoft JhengHei','Segoe UI',sans-serif;font-size:14px;margin:12px}h3{margin:0 0 8px}li{margin:3px 0}</style></head><body><h3>版本 1.0.11 更新內容</h3><ul><li>修正：安裝版的「匯出」按了沒反應，現在會跳出「另存新檔」視窗</li><li>新增：光速下單的商品下拉可直接選 0050，選商品後帳號自動切成對應類型；行情還在載入時顯示「載入行情中…」</li><li>調整：帳號列表點整列選帳號、最右側 ▾ 展開明細，選中色只標示最後選的那一列</li></ul></body></html>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/cbmlabs/AI-Trading-releases/main/TxPanel-Setup-1.0.11.exe" sparkle:version="1.0.11" sparkle:os="windows" length="26208078" type="application/octet-stream" sparkle:edSignature="jDSS10PQL/2MhATb1iAlPHSbrXaFQpX01qjnJK9l7EOBm7qxtPKZgWi2I2nq/rY/6vFmHSxRnW/Lr06Ku1RoDg==" />
+    </item>
+  </channel>
+</rss>
